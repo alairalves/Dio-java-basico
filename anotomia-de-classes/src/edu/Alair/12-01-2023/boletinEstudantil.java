@@ -8,5 +8,5 @@ public class boletinEstudantil {
 		else
 			System.out.println("APROVADO");
 	}
-        }
+}
 
