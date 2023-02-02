@@ -1,0 +1,87 @@
+Palavras reservadas Java
+
+Palavras reservadas, são identificadores de uma linguagem que já possuem uma finalidade específica, portanto, não podem ser utilizados para nomear variáveis, classes, métodos ou atributos.
+A linguagem Java possui 52 palavras reservadas. Todas essas palavras são classificadas em grupos e escritas com letra minúscula, sendo identificadas com uma cor especial pela maioria das IDE's. Abaixo temos a lista de palavras agrupadas por suas finalidades.
+
+
+-> Tipos Primitivos
+
+->Classificações
+
+->Escopo de uso
+
+->Palavras "opostas"
+
+
+controle de pacotes:
+import 
+package
+
+modificadores de acesso:
+public
+private
+protected
+
+primitivos:
+boolean
+byte
+char
+double
+float
+int
+long
+short
+void
+
+modificadores de classes, variáveis ou métodos:
+abstract
+class
+extends
+final
+implements
+interface
+native
+new
+static
+strictfp
+synchronized
+transient
+volatile
+
+controle de fluxo dentro de bloco de código:
+break
+case
+continue
+default
+do
+else
+for
+if
+instanceof
+return
+switch
+while
+
+tratamento de erros:
+assert
+catch
+finally
+throw
+thorows
+try
+
+variáveis de referência:
+super
+this
+
+palavras reservadas não utilizadas:
+const
+goto
+
+literais reservados:De acordo com a Java Language Specification, null, true e false são tecnicamente chamados de valores literais, e não keywords. Se você tentar criar algum identificador com estes valores, você também terá um erro de compilação
+null
+true
+false
+
+
+
